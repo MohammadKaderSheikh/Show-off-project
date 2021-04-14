@@ -1,0 +1,22 @@
+.myH1 h1{
+    color:blue;
+    
+}
+.myH1:hover{
+    font-size: 30px;
+    color:chartreuse;
+    background-color: tomato;
+}
+#myPara{
+    color:red;
+}
+#myPara:hover{
+    background-color: slateblue;
+}
+img{
+    opacity:1;
+}
+img:hover{
+    opacity: .8;
+    outline-color:red;
+}
